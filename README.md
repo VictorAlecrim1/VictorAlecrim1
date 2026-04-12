@@ -14,8 +14,4 @@ Opa, me chama Victor Alecrim sou estudante do Ensino Médio, atualmente estou cu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VictorAlecrim1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictorAlecrim1&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VictorAlecrim1&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
