@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">⤷ ゛𝄞 ˎˊ° Sou nativo de Manaus, e adoro ficar andando no centro, por conta das arquiteturas barrocas, além disso, fora do mundo dos Dev's eu gosto muito de jogar jogos onlines, que querendo ou não é uma das poucas formas que consigo me distrair para não focar tanto nos meus problemas da rotina.</p>
+<p align="right">⤷ ゛𝄞 ˎˊ° Sou nativo de Manaus, e adoro ficar andando no centro, por conta das arquiteturas barrocas, além disso, fora do mundo dos Dev's eu gosto muito de jogar jogos onlines, que querendo ou não é uma das poucas formas que consigo me distrair para não focar tanto nos meus problemas da rotina.</p>
 
 ###
 
