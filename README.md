@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">𓂃 ࣪˖ ִֶ☣︎ ྀིྀ Atualmente estou estudando Python, Java e CyberSegurança, porém tenho muita experiência com JS, HTML, CSS e C++</p>
+<p align="left">𓂃 ࣪˖ ִֶ☣︎ ྀིྀ Atualmente estou estudando Python, C# e CyberSegurança, porém tenho muita experiência com JS, HTML, CSS e C++</p>
 
 ###
 
